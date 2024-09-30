@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String login = "java_skyprokkkkkkk*";
+        String login = "java_skyprokkkkkk*";
         String password = "D_1hWiKjjP_9";
         String confirmPassword = "D_1hWiKjjP_";
 
